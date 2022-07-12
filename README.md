@@ -22,7 +22,7 @@
         <a href="https://twitter.com/fengliufeseliud"><img src="https://twitter.com/favicon.ico" align="left" width="20">twitter</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://www.pixiv.net/users/76113338"><img src="https://www.pixiv.net/favicon.ico" align="left" width="20">pixiv</a>
+        <a href="https://www.pixiv.net/users/76113338">pixiv</a>
     </div>
 </div>
 
