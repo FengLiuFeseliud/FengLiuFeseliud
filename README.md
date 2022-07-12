@@ -9,7 +9,7 @@
     <img align="right" src="https://count.getloli.com/get/@:FengLiuFeseliud?theme=rule34">
 </div>
 
-### 外链
+### Links
 
 <div>
     <div  align="left" style="display: inline-block" >
@@ -26,7 +26,7 @@
     </div>
 </div>
 
-### Github 数据
+### Github Stars
 <div width="100%">
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt&layout=compact" width="42%" height="210">
 	<img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" width="57%">
