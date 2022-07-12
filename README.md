@@ -33,4 +33,4 @@
 
 ### Github 数据
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt)<img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" height="280" width="600">[![](https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt)<img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" height="280" width="500">[![](https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
