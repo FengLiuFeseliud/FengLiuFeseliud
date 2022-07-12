@@ -5,23 +5,23 @@
         编程只是兴趣，尽力少写 Bug 少堆屎山
     </p>
     <p align="right">多少人来看过了呀...</p>
-    <img align="right" src="https://count.getloli.com/get/@:FengLiuFeseliud?theme=gelbooru">
+    <img align="right" src="https://count.getloli.com/get/@:FengLiuFeseliud?theme=rule34">
 </div>
 
 ### 外链
 
 <div>
     <div  align="left" style="display: inline-block" >
-        <a href="https://sakuratools.top"><img src="https://sakuratools.top/favicon.ico" align="left" width="30">个人网站 sakuratools.top</a>
+        <a href="https://sakuratools.top"><img src="https://sakuratools.top/favicon.ico" align="left" width="20">个人网站 sakuratools.top</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://space.bilibili.com/34394509"><img src="https://www.bilibili.com/favicon.ico" align="left" width="30">bilibili</a>
+        <a href="https://space.bilibili.com/34394509"><img src="https://www.bilibili.com/favicon.ico" align="left" width="20">bilibili</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://twitter.com/fengliufeseliud"><img src="https://twitter.com/favicon.ico" align="left" width="30">twitter</a>
+        <a href="https://twitter.com/fengliufeseliud"><img src="https://twitter.com/favicon.ico" align="left" width="20">twitter</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://www.pixiv.net/users/76113338"><img src="https://www.pixiv.net/favicon.ico" align="left" width="30">pixiv</a>
+        <a href="https://www.pixiv.net/users/76113338"><img src="https://www.pixiv.net/favicon.ico" align="left" width="20">pixiv</a>
     </div>
 </div>
 
