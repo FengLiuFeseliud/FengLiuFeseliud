@@ -5,7 +5,7 @@
         编程只是兴趣，尽力少写 Bug 少堆屎山
     </p>
     <p align="right">多少人来看过了呀...</p>
-    <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+    <img align="right" src="https://count.getloli.com/get/@:FengLiuFeseliud">
 </div>
 
 ### 外链
