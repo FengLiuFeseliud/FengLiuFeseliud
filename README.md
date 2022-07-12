@@ -26,21 +26,9 @@
     </div>
 </div>
 
-### 项目
-
-<div height="100" width="100%">
-	<a href="https://github.com/FengLiuFeseliud/pycqBot"><img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=pycqBot&theme=cobalt"></a>
-    <a href="https://github.com/FengLiuFeseliud/sakuratools.top-index"><img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=sakuratools.top-index&theme=cobalt"></a>
-</div>
-
 ### Github 数据
-
-<div height="600" width="100%">
-  <div height="300" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt" height="100%" width="30%">
-    <img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" height="100%" width="69%">
-  </div>
-  <div height="300" width="100%">
-   <img src="https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue">
-  </div>
+<div width="100%">
+ 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt&layout=compact" width="45%" height="217">
+	<img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" width="54%">
 </div>
+<img src="https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue">
