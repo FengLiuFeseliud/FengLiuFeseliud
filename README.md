@@ -12,16 +12,16 @@
 
 <div>
     <div  align="left" style="display: inline-block" >
-        <a href="https://sakuratools.top"><img src="https://sakuratools.top/favicon.ico" align="left" width="18">个人网站</a>
+        <a href="https://sakuratools.top"><img src="https://sakuratools.top/favicon.ico" align="left" width="25">个人网站</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://space.bilibili.com/34394509"><img src="https://www.bilibili.com/favicon.ico" align="left" width="18">bilibili</a>
+        <a href="https://space.bilibili.com/34394509"><img src="https://www.bilibili.com/favicon.ico" align="left" width="25">bilibili</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://twitter.com/fengliufeseliud"><img src="https://twitter.com/favicon.ico" align="left" width="18">twitter</a>
+        <a href="https://twitter.com/fengliufeseliud"><img src="https://twitter.com/favicon.ico" align="left" width="25">twitter</a>
     </div>
     <div  align="left" style="display: inline-block">
-        <a href="https://www.pixiv.net/users/76113338"><img src="https://www.pixiv.net/favicon.ico" align="left" width="18">pixiv</a>
+        <a href="https://www.pixiv.net/users/76113338"><img src="https://www.pixiv.net/favicon.ico" align="left" width="25">pixiv</a>
     </div>
 </div>
 
