@@ -1,9 +1,10 @@
 ## FengLiu
 
+编程只是兴趣，尽力少写 Bug 少堆屎山
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellowgreen)![](https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E5%99%A8-VSCode-yellow)
+
 <div>
-  	<p>
-        编程只是兴趣，尽力少写 Bug 少堆屎山
-    </p>
     <p align="right">多少人来看过了呀...</p>
     <img align="right" src="https://count.getloli.com/get/@:FengLiuFeseliud?theme=rule34">
 </div>
@@ -25,12 +26,21 @@
     </div>
 </div>
 
-
-
 ### 项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=pycqBot&theme=cobalt)](https://github.com/FengLiuFeseliud/pycqBot) [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=sakuratools.top-index&theme=cobalt)](https://github.com/FengLiuFeseliud/sakuratools.top-index)
+<div height="100" width="100%">
+	<a href="https://github.com/FengLiuFeseliud/pycqBot"><img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=pycqBot&theme=cobalt"></a>
+    <a href="https://github.com/FengLiuFeseliud/sakuratools.top-index"><img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FengLiuFeseliud&repo=sakuratools.top-index&theme=cobalt"></a>
+</div>
 
 ### Github 数据
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt) <img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" height="280" width="550">[![](https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div height="600" width="100%">
+  <div height="300" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt" height="100%" width="30%">
+    <img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" height="100%" width="69%">
+  </div>
+  <div height="300" width="100%">
+   <img src="https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue">
+  </div>
+</div>
