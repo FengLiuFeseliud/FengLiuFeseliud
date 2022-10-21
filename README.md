@@ -2,6 +2,8 @@
 
 编程只是兴趣，尽力少写 Bug 少堆屎山
 
+别问干嘛去了, 沉迷 mc mod 开发捏 (别沉迷 mod 开发了, 肝死一堆 bug)
+
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellowgreen)![](https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E5%99%A8-VSCode-yellow)
 
 <div>
