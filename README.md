@@ -33,4 +33,3 @@
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengLiuFeseliud&theme=cobalt&layout=compact" width="42%" height="210">
 	<img src="https://github-readme-stats.vercel.app/api?username=FengLiuFeseliud&show_icons=true&theme=cobalt" width="57%">
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=FengLiuFeseliud&theme=rogue">
